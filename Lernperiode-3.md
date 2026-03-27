@@ -18,3 +18,17 @@ Neue Ziele 27.03.2026
 - MindMap für das Spiel erstellen
 - Weitere Sprites für die Map erstellen, min. Boden Tiles fertig stellen für Level 1
 - Mit Unity eine Karte generieren oder erstellen
+
+Ziele vom 27.03.2026 Zusammenfassung:
+- MindMap nicht erstellt
+- Sprites für den Boden fertig
+- Noch nicht in Unity eingefügt
+
+Zusammenfassung:
+Generell Ziele erreicht?:
+-Nein, habe meine Ziele noch abgeändert aufgrund neuer Interessen.
+Was habe ich gelernt?:
+-Sprites erstellen
+-VM Aufsetzen
+-> Linux aufsetzen (so halb)
+-Ein wenig Java
