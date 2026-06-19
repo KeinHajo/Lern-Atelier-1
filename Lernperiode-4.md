@@ -28,3 +28,14 @@ Aktuell arbeite ich an den Eckteilen für die Wand, aber da die Eckteile jeweils
 - Eckteile fertigstellen
 - Map Layout und Generation mit Alex besprechen und entscheiden
 - Möglichst Map Design abschliessen und mit dem Design der wesentlichen Dinge beginnen
+
+### Reflexion
+Ich habe die Eckteile fertigstellen können und nach kurzem Besprechen mit Alex sind wir nun mit dem Map Designing zumindest vorerst fertig. Jedoch was Map Layout und Generation betreffen, konnten wir soweit noch nicht klar absprechen.
+
+---
+
+### 26.06.2026
+
+- Map Layout und Generation mit Alex besprechen
+- erstes Map Layout fertig haben
+- u.U. Noch entscheiden, was es noch braucht und was noch fehlt
