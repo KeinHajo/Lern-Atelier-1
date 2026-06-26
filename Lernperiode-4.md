@@ -39,3 +39,16 @@ Ich habe die Eckteile fertigstellen können und nach kurzem Besprechen mit Alex 
 - Map Layout und Generation mit Alex besprechen
 - erstes Map Layout fertig haben
 - u.U. Noch entscheiden, was es noch braucht und was noch fehlt
+
+### Reflexion
+Alex und ich konnten uns mal ein erstes Map Layout zusammenstellen, jedoch was per Generation und was per voreingestelltem Layout gemacht wird, wissen wir noch nicht genau. Für die Map brauchen wir vorerst nichts weiter, weswegen ich angefangen habe mit dem Designen der Equipments und Tools.
+
+---
+
+### Reflexion auf die gesamte Lernperiode.
+Im grossen und ganzen bin ich sehr zufrieden mit dem, was ich erreicht habe. Meine Ziele haben sich einfach im Verlaufe der Lernperiode ein paar mal verändert was natürlich eher suboptimal ist. 
+Positives: Ich habe recht viel designen können und mich ausgiebig mit Pixel Art beschäftigt. Ich habe zu Beginn der Lernperiode mich auch mit Java ein wenig befasst und festgestellt, es ist sehr änlich wie C#. Das macht es natürlich leichter um die Sprache zu erlernen. Zusätzlich habe ich mich ein wenig mit Unity befasst, allerdings noch nicht gross
+
+Negatives: Ich habe mehrfach mein Ziel und mein Interessensthema gewechselt. Ich habe mich auch Teils sehr lange an einer Aufgabe aufgehängt, insbesondere beim Design zwischendurch. Ich habe nicht immer konsequent gearbeitet.
+
+Das möchte ich in der nächsten Lernperiode besser machen: Ich möchte mich weniger ablenken lassen, von dem, was um mich herum passiert. Ich möchte auch versuchen konsequent an einer Sache dran zu bleiben und nicht das Ziel mehrmals zu ändern. 
