@@ -21,9 +21,11 @@ Ich möchte bis Ende der Lernperiode eine kleine aber funktionierende Minecraft 
 ## Tagesplanungen
 
 ### Planung 14.08.2026
-- Kurs oder Lernmethode finden, mit welcher ich Java lernen kann
-- Erste Basics lernen (Hallo Welt mit Java)
-- Vergleiche zu CSharp notieren
+- [X] Kurs oder Lernmethode finden, mit welcher ich Java lernen kann
+- [X] Erste Basics lernen (Hallo Welt mit Java)
+- [X] Vergleiche zu CSharp notieren
+
+Ich habe heute den Kurs von Hyperskill mit Zusammenarbeit mit JetBrain entdeckt. Ich habe die annual subscription für diesen Kurs abgeschlossen und mit diesem begonnen. Ich habe heute den Hallo Welt Code mit Java paar mal schreiben und üben können und auch ein wenig Theorie im Hintergrund gelernt, wie z.B. was grob mit dem Sourcecode passiert (Sourcecode -> Compiling -> Bytecode -> JVM (im Falle Java) -> Machinecode) und ein wenig Java Theorie gelernt. Ich habe mir auch Vergleiche zu C# notiert und paar weitere andere Dinge ebenfalls aufgeschrieben.
 
 
 ### Planung 21.08.2026
