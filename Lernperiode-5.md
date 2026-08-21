@@ -33,8 +33,13 @@ Ich habe heute den Kurs von Hyperskill mit Zusammenarbeit mit JetBrain entdeckt.
 - [ ] Eine Idee für eine Minecraft Mod notieren
 - [ ] Siehe Ziel Eins und Zwei
 
+Ich habe mich heute etwas zu viel Ablenken lassen. Ich bin durchaus im Kurs weiter gekommen und habe auch gelernt, wie Hexadezimal und Octalzahlen berechnet werden. Meine Idee für die Minecraft Mod muss ich noch überlegen und planen, aber das hat Stand jetzt auch noch keine grosse Dringlichkeit. 
+
 
 ### Planung 28.08.2026
+- [ ] Weitermachen am Java Kurs (Stand jetzt 17/89 gelernten Themen)
+- [ ] Eine grobe Idee für die Minecraft Mod notieren
+- [ ] Siehe Ziel Eins und Zwei da ich keine besseren Ziele mehr habe
 
 
 ### Planung 04.09.2026
