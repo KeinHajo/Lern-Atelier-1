@@ -30,7 +30,6 @@ Ich habe heute den Kurs von Hyperskill mit Zusammenarbeit mit JetBrain entdeckt.
 
 ### Planung 21.08.2026
 - [ ] Weiterarbeiten am Introductions to Java Kurs (Stand jetzt bei 12/89 gelernten Themen)
-- [ ] Weiterhin differenzen notieren
 - [ ] Eine Idee für eine Minecraft Mod aufsetzen
 
 
