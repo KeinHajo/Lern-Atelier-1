@@ -37,13 +37,16 @@ Ich habe mich heute etwas zu viel Ablenken lassen. Ich bin durchaus im Kurs weit
 
 
 ### Planung 28.08.2026
-- [ ] Weitermachen am Java Kurs (Stand jetzt 17/89 gelernten Themen)
+- [X] Weitermachen am Java Kurs (Stand jetzt 17/89 gelernten Themen)
 - [ ] Eine grobe Idee für die Minecraft Mod notieren
 - [ ] Siehe Ziel Eins und Zwei da ich keine besseren Ziele mehr habe
 
+Heute ging es mir nicht so gut, habe Kopfschmerzen und irgendwas falsches gegessen und zudem massiv Schlafmangel. Deswegen konnte ich mich mal wieder gar nicht gut konzentrieren. Ich bin auch nicht wirklich gut vorangekommen. Ich habe zwar eine Idee für eine Minecraft Mod im Kopf, ist aber noch nicht notiert.
 
 ### Planung 04.09.2026
-
+- [ ] Ich möchte mind. 60 Minuten konzentriert am Java Kurs weitermachen.
+- [ ] Ich möchte mal schauen, ob es ein cooles kleines Zwischenprojekt gibt, das ich mit meinem aktuellen Wissenstand, wenn nötig mit Hilfe, schon umsetzen kann
+- [ ] Ich möchte ein MindMap mit der Grundstruktur und Idee der Minecraft Mod aufzeichnen 
 
 ### Planung 11.09.2026
 
