@@ -44,11 +44,18 @@ Ich habe mich heute etwas zu viel Ablenken lassen. Ich bin durchaus im Kurs weit
 Heute ging es mir nicht so gut, habe Kopfschmerzen und irgendwas falsches gegessen und zudem massiv Schlafmangel. Deswegen konnte ich mich mal wieder gar nicht gut konzentrieren. Ich bin auch nicht wirklich gut vorangekommen. Ich habe zwar eine Idee für eine Minecraft Mod im Kopf, ist aber noch nicht notiert.
 
 ### Planung 04.09.2026
-- [ ] Ich möchte mind. 60 Minuten konzentriert am Java Kurs weitermachen.
+- [x] Ich möchte mind. 60 Minuten konzentriert am Java Kurs weitermachen.
 - [ ] Ich möchte mal schauen, ob es ein cooles kleines Zwischenprojekt gibt, das ich mit meinem aktuellen Wissenstand, wenn nötig mit Hilfe, schon umsetzen kann
-- [ ] Ich möchte ein MindMap mit der Grundstruktur und Idee der Minecraft Mod aufzeichnen 
+- [ ] Ich möchte ein MindMap mit der Grundstruktur und Idee der Minecraft Mod aufzeichnen
+
+Ich habe heute erstaunlich konzentriert am Kurs weitergearbeitet, allerdings bin ich dennoch nicht grossartig weiter gekommen, da ich immernoch den Scanner etwas besser am lernen bin und die ganzen String Methoden es mir auch nicht leicht machen. Ich habe mal ein MindMap angefangen, jedoch würde ich das Ziel noch nicht als abgschlossen werten. Zudem habe ich auch noch kein Projekt gefunden, aber es gibt bei Hyperskill (meiner Kurswebsite) auch Projekte die man unter Begleitung von Hyperskill machen kann. Muss da nächste Woche mal reinschauen.
+War zwar kein Ziel, habe mich aber mit einem meiner Kollegen noch ausgiebig über Network Setup, Switches, NAS und Server konfigurationen unterhalten.
 
 ### Planung 11.09.2026
+- [ ] Ich möchte wieder mind. 60 Minuten konzentriert am Java Kurs weiterarbeiten
+- [ ] Ich möchte das MindMap fertigstellen
+- [ ] Ich möchte mir mind. 15 Minuten Zeit nehmen, in Hyperskill die begleiteten Miniprojekte anzuschauen und im Idealfall eines Aussuchen
+- [ ] Ich möchte mit Herr Lauk, sofern die Zeit dafür besteht, den Planungs-Checker einrichten
 
 
 ### Planung 18.09.2026
