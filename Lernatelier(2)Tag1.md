@@ -5,4 +5,4 @@ Modul 431 so weit wie möglich weitermachen, Ziel heute war genügend Punkte fü
 Modul 431 GA fertig machen
 Erreicht?
 Wenn alle Dokumente, die ich zum korrigieren abgegeben habe, korrigiert sind, sehr wahrscheinlich JA
-Nein, da ich unintentionell anstelle der GAs auch einige EAs erledigt habe
+Nein, da ich unintentionell anstelle der GAs auch einige EAs erledigt habe..
