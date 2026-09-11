@@ -52,10 +52,12 @@ Ich habe heute erstaunlich konzentriert am Kurs weitergearbeitet, allerdings bin
 War zwar kein Ziel, habe mich aber mit einem meiner Kollegen noch ausgiebig über Network Setup, Switches, NAS und Server konfigurationen unterhalten.
 
 ### Planung 11.09.2026
-- [ ] Ich möchte wieder mind. 60 Minuten konzentriert am Java Kurs weiterarbeiten
-- [ ] Ich möchte das MindMap fertigstellen
-- [ ] Ich möchte mir mind. 15 Minuten Zeit nehmen, in Hyperskill die begleiteten Miniprojekte anzuschauen und im Idealfall eines Aussuchen
-- [ ] Ich möchte mit Herr Lauk, sofern die Zeit dafür besteht, den Planungs-Checker einrichten
+- [X] Ich möchte wieder mind. 60 Minuten konzentriert am Java Kurs weiterarbeiten
+- [X] Ich möchte das MindMap fertigstellen
+- [X] Ich möchte mir mind. 15 Minuten Zeit nehmen, in Hyperskill die begleiteten Miniprojekte anzuschauen und im Idealfall eines Aussuchen
+- [X] Ich möchte mit Herr Lauk, sofern die Zeit dafür besteht, den Planungs-Checker einrichten
+
+Ich habe heute ein Miniprojekt von Hyperskill gestartet welches automatisch am Kurs fortgesetzt hat. Ich habe ebenso das Mindmap fertiggestellt und den Planungschecker konnte ich auch einrichten. Ich habe mich allerdings gegen Ende hin wieder etwas ablenken lassen, aber alles in allem war heute gut.
 
 
 ### Planung 18.09.2026
