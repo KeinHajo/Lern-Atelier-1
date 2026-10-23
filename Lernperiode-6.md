@@ -57,9 +57,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] C# für Modul 320 Prüfung festigen
-- [ ] siehe oben
-- [ ] siehe über oben
+- [X] C# für Modul 320 Prüfung festigen
+- [X] siehe oben
+- [X] siehe über oben
 
 
 #### Tagesreflexion
@@ -70,7 +70,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Ich habe heute hauptsächlich Interfaces näher kennengelernt und etwas vertieft, anders als das leider nicht sehr viel gemacht.
 
 
 <!--
