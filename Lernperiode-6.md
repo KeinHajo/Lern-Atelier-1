@@ -88,9 +88,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] C Essentials auf Cisco beginnen
+- [ ] Hardware Notwendigkeiten für ein Arduino Gitarrentuner festlegen
+- [ ] Siehe oben genannte Ziele
 
 
 #### Tagesreflexion
