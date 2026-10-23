@@ -1,31 +1,40 @@
 # Lern-Periode 6
 
 - Name: Hajo Hinz
-- Zeitraum: 23.10.2026 - 18.12.2026
+- Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
 
 ### Noten
 <!--
-Aktuell stehe ich mit meinen Noten nicht da, wo ich gerne wäre, dies liegt hauptsächlich an fehlendem Programmierwissen, weswegen ich daran arbeiten möchte
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
+in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
+
+Meine Noten stehen aktuell nicht da, wo ich sie gerne hätte, was hauptsächlich an mangelnder Programmiererfahrung liegt
 
 ### Veränderungen
 <!--
-Ich möchte mich nicht mehr so sehr ablenken lassen, wie letzte Lernperiode. In anderen Worten, ich möchte konzentriert arbeiten, soweit es geht und so viel es geht.
+Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
+
+Ich möchte konzentrierter und effizienter arbeiten
 
 ### Projekte / neue Technologien
 <!--
-Ich habe noch kein spezifisches Projekt, erstmal möchte ich mein Basisverständnis und Gefühl fürs programmieren erweitern, danach ein Projekt machen
+Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+Verlinken Sie zu den GitHub Repos Ihrer Projekte.
+(Können Sie später nach und nach einfügen.)
 -->
+
+Ich habe aktuell noch keine Projekte, fürs erste möchte ich mein Grundverständnis fürs Programmieren erweitern, ein Gefühl dafür entwickeln und dann nach einem Projekt schauen. In der Zukunft möchte ich einen Gitarrentuner auf mein Arduino Programmieren und dafür C lernen
 
 ### Generelle Ziele
 <!--
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-...Ihr Text...
+Mein Ziel ist es, ein kleines funktionelles Programm auf den Arduino zu coden.
 
 ## Tagesplanungen
 <!--
@@ -37,7 +46,38 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung tt.mm.jjjj
+### Planung 23.10.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] C# für Modul 320 Prüfung festigen
+- [ ] siehe oben
+- [ ] siehe über oben
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 30.10.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -68,6 +108,194 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
 
+### Planung 06.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 20.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 27.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 04.12.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 11.12.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+### Planung 18.12.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+
+
 ## Lernperiode Reflexion
 <!--
 Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
@@ -78,5 +306,3 @@ Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
 -->
 
 ...Ihr Text...
-
-
