@@ -88,7 +88,7 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] C Essentials auf Cisco beginnen
+- [X] C Essentials auf Cisco beginnen
 - [ ] Hardware Notwendigkeiten für ein Arduino Gitarrentuner festlegen
 - [ ] Siehe oben genannte Ziele
 
@@ -101,7 +101,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+ich habe im Grossen und Ganzen recht gut arbeiten können, bin allerdings nicht so weit gekommen wie gewünscht, hauptsächlich weil ich auch recht lange versucht habe meine Boot Startup Problem zu fixen, das sich aus unerklärlichen Gründen nicht fixen lässt. Ich habe mit dem Cisco C Essentials-1 Kurs begonnen, bin aber auch da gerade mal mitten im Modul 1/5, ich wäre lieber etwas weiter gewesen, aber das ist nunmal jetzt so.
 
 
 <!--
@@ -119,9 +119,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] 1h konzentriert Cisco C-Essentials weiter machen
+- [ ] Mich informieren, was ich für einen selbstgemachten Arduino Gitarrentuner brauche
+- [ ] 1h konzentriert Cisco C-Essentials weiter machen
+- [ ] Restliche Zeit weitgehend in Cisco C-Essentials investieren
 
 
 #### Tagesreflexion
