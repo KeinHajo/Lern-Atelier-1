@@ -133,7 +133,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Krank
 
 
 <!--
